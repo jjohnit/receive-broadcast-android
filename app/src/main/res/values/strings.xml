@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Application 2</string>
+    <string name="permission_needed">edu.uic.cs478.fall22.mp3</string>
+    <string name="welcome_message">Welcome to Application 2</string>
+    <string name="waiting">Waiting for broadcasts...</string>
+    <string-array name="attractions">
+        <item>Navy Pier</item>
+        <item>Field Museum</item>
+        <item>Millennium Park</item>
+        <item>Shedd Aquarium</item>
+        <item>Willis Tower</item>
+        <item>Lincoln Park Zoo</item>
+    </string-array>
+    <string-array name="attraction_links">
+        <item>"https://navypier.org/"</item>
+        <item>"https://www.fieldmuseum.org/"</item>
+        <item>"https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html"</item>
+        <item>"https://www.sheddaquarium.org/"</item>
+        <item>"https://theskydeck.com/"</item>
+        <item>"https://www.lpzoo.org/"</item>
+    </string-array>
+    <string-array name="hotels">
+        <item>The Peninsula Chicago</item>
+        <item>The Langham</item>
+        <item>Waldorf Astoria</item>
+        <item>Viceroy</item>
+        <item>Four Seasons Hotel</item>
+        <item>The Blackstone</item>
+    </string-array>
+    <string-array name="hotel_links">
+        <item>"https://www.peninsula.com/"</item>
+        <item>"https://www.langhamhotels.com/"</item>
+        <item>"https://www.waldorfastoriachicagohotel.com/"</item>
+        <item>"https://www.viceroyhotelsandresorts.com/chicago"</item>
+        <item>"https://www.fourseasons.com/chicago/"</item>
+        <item>"https://www.theblackstonehotel.com/"</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
